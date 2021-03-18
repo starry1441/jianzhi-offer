@@ -2,12 +2,15 @@ package work3_15;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:数值的整数次方
+ * https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
  * User: starry
  * Date: 2021 -03 -15
  * Time: 16:34
  */
 public class Work4 {
+
+    //力扣时间超过限制
     public static double myPow(double x, int n) {
         if(x == 1) return 1;
         double res = x;
