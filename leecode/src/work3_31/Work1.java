@@ -4,7 +4,8 @@ import java.util.*;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 38. 字符串的排列
+ * https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/
  * User: starry
  * Date: 2021 -03 -31
  * Time: 22:20

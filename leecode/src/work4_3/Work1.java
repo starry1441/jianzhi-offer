@@ -5,7 +5,8 @@ import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 44. 数字序列中某一位的数字
+ * https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/
  * User: starry
  * Date: 2021 -04 -03
  * Time: 9:42

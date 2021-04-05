@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 42. 连续子数组的最大和
+ * https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
  * User: starry
  * Date: 2021 -04 -02
  * Time: 21:27

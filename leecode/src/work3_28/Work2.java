@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 40. 最小的k个数
+ * https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/
  * User: starry
  * Date: 2021 -03 -28
  * Time: 20:59

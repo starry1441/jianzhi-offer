@@ -5,7 +5,8 @@ import java.util.Map;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 39. 数组中出现次数超过一半的数字
+ * https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
  * User: starry
  * Date: 2021 -03 -28
  * Time: 20:59
