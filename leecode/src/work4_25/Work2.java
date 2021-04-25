@@ -4,7 +4,8 @@ import work3_7.TreeNode;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:剑指 Offer 55 - II. 平衡二叉树
+ * https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
  * User: starry
  * Date: 2021 -04 -25
  * Time: 9:07
